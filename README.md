@@ -29,3 +29,9 @@ Se realizó el clustering jerárquico utilizando el método de "Ward Linkage" y 
 ## Visualización de Dendrogramas
 
 Se presentaron diferentes visualizaciones de los dendrogramas generados. Se destacó la estructura de los clusters y se utilizó la coloración para distinguir los diferentes grupos.
+
+## Referencias
+
+1. Análisis jerárquico de cluster: https://rquer.netlify.app/clustering/
+2. Transformación logarítmica: https://rpubs.com/marvinlemos/log-transformation
+3. Número óptimo de clusters: http://www.sthda.com/english/articles/29-cluster-validation-essentials/96-determiningthe-optimal-number-of-clusters-3-must-know-methods/
